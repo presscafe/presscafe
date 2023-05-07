@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @presscafe
 - 👀 I’m interested in cross platform development 
-- 🌱 I’m currently learning Dart and Flutter 
+- 🌱 I’m currently using Dart and Flutter 
 - 💞️ I’m looking to collaborate on AI
 - 📫 @presscafeworld
 
