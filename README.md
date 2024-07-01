@@ -1,4 +1,4 @@
-# Welcome to PressCafe Innovations Hub! ☕🚀
+# Welcome to Press Cafe Innovations Hub! ☕🚀
 
 Hello, I'm @presscafe, and this repository is your gateway to disruptive technology reviews and collaborative innovation.
 
