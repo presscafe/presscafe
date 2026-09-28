@@ -1,4 +1,4 @@
-# Welcome to Innovations Hub! ☕🚀
+# Welcome to Farouk Pandor Innovations Hub! ☕🚀
 
 Hello, I'm @presscafe, and this repository is your gateway to disruptive technology reviews and collaborative innovation.
 
