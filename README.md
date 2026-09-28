@@ -1,16 +1,16 @@
-# Welcome to Press Cafe Innovations Hub! ☕🚀
+# Welcome to Innovations Hub! ☕🚀
 
 Hello, I'm @presscafe, and this repository is your gateway to disruptive technology reviews and collaborative innovation.
 
-## About PressCafe
-- 👋 I’m @presscafe, a tech entrepreneur exploring the frontier of disruptive technologies.
+## About Farouk Pandor
+- 👋 I’m @faroukpandor, a tech entrepreneur exploring the frontier of disruptive technologies.
 - 👀 I focus on harnessing #Rust, #Dart, and Flutter to drive innovative solutions across platforms.
 - 🌱 Currently leveraging Flutter's potential for scalable apps on mobile, web, and desktop.
 - 💡 Passionate about AI-driven solutions that redefine industries.
 - 💬 Let's collaborate on transforming tech landscapes with sustainable and profitable innovations.
 
 ## Our Vision
-PressCafe is a catalyst for disruptive technologies, pushing boundaries to create sustainable and profitable ventures.
+Farouk Pandor is a catalyst for disruptive technologies, pushing boundaries to create sustainable and profitable ventures.
 
 ## What We Offer
 - **Cutting-edge Reviews**: Dive deep into transformative products and services shaping the future.
